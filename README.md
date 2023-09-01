@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Takyi05
+- 👋 Hi, I’m Takyi
 - 👀 I’m interested in ... Becoming a fullstack developer
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ...anything that involves html,css and javascript😊😁
